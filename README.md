@@ -1,16 +1,14 @@
-### Hi there 👋
+👋 안녕하세요! **서지현(Seo Ji Hyeon)** 입니다
 
-<!--
-**ji-hyeon97/ji-hyeon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ 자기소개  
 
-Here are some ideas to get you started:
+🏫 단국대학교 모바일시스템공학과(2018.03 ~ 재학중)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 동해해양의무경찰 1511함(취사, 항해) -> 동해해양경찰서(타격대, 민원실) -> 1513B함(안전)
+
+💻 학부연구생 iThings LAB(http://www.ithingslab.com) **광융합 휴먼케어 기술개발 연구** (2021.08 ~ 진행중)
+
+💻 빅데이터 연합동아리 **비타민** 8기 (https://cafe.naver.com/bitamin123)
+
+📄 백준 : sgh9702  데이콘 : 노량진컵밥
+
