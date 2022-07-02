@@ -1,20 +1,2 @@
- 
-👋 안녕하세요! **서지현(Seo Ji Hyeon)** 입니다
-
-✨ 자기소개  
-
-   * 🏫 단국대학교 모바일시스템공학과(2018.03 ~ 재학중)
-***
-
-✨ 경험및 외부활동
-
-   * 💻 학부연구생 iThings LAB(http://www.ithingslab.com) (2021.08 ~ 2022.03)
-
-   * 💻 빅데이터 연합동아리 **비타민** 8기 (https://cafe.naver.com/bitamin123) (2021.08 ~ 2022.03)
-***
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-hyeon97&layout=compact)-->
-<!--<img align='middle' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sgh9702">-->
-
-<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fji-hyeon97&count_bg=%235CD600&title_bg=%233948F2&icon=&icon_color=%2300FF4A&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://github.com/ji-hyeon97)-->
-
-***
+Hello<br><br>
+<img width="285" alt="스크린샷 2022-07-02 오전 11 30 45" src="https://user-images.githubusercontent.com/79920930/176983486-2926c33f-d30f-4ba4-bcaa-c6a7d74692eb.png">
